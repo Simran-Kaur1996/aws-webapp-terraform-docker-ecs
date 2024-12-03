@@ -1,6 +1,6 @@
 # Deploy a Dynamic Website on AWS with Terraform
 
-![Alt text describing the image](![Alt text describing the image](relative/path/to/filename.jpg.png)
+![Alt text describing the image](1.Terraform-Ecommerce (2).jpg)
 
 ## Project Overview
 
