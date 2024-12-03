@@ -1,6 +1,6 @@
 # Deploy a Dynamic Website on AWS with Terraform
 
-![Alt text describing the image](aws-website-terraform-deployment/1.Terraform-Ecommerce(2).jpg)
+![Alt text describing the image](1.Terraform-Ecommerce(2).jpg)
 
 ## Project Overview
 
